@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/plagarismdetection/static/css/main.34df4a7b.chunk.css",
+    "main.js": "/plagarismdetection/static/js/main.4946d2a8.chunk.js",
+    "main.js.map": "/plagarismdetection/static/js/main.4946d2a8.chunk.js.map",
+    "runtime-main.js": "/plagarismdetection/static/js/runtime-main.c1091906.js",
+    "runtime-main.js.map": "/plagarismdetection/static/js/runtime-main.c1091906.js.map",
+    "static/js/2.5586dff1.chunk.js": "/plagarismdetection/static/js/2.5586dff1.chunk.js",
+    "static/js/2.5586dff1.chunk.js.map": "/plagarismdetection/static/js/2.5586dff1.chunk.js.map",
+    "static/js/3.d105fddf.chunk.js": "/plagarismdetection/static/js/3.d105fddf.chunk.js",
+    "static/js/3.d105fddf.chunk.js.map": "/plagarismdetection/static/js/3.d105fddf.chunk.js.map",
+    "index.html": "/plagarismdetection/index.html",
+    "static/css/main.34df4a7b.chunk.css.map": "/plagarismdetection/static/css/main.34df4a7b.chunk.css.map",
+    "static/js/2.5586dff1.chunk.js.LICENSE.txt": "/plagarismdetection/static/js/2.5586dff1.chunk.js.LICENSE.txt",
+    "static/media/undraw_adminlogin.10241078.svg": "/plagarismdetection/static/media/undraw_adminlogin.10241078.svg",
+    "static/media/undraw_facultylogin.f3cb7c0e.svg": "/plagarismdetection/static/media/undraw_facultylogin.f3cb7c0e.svg",
+    "static/media/undraw_studentlogin.57279cc8.svg": "/plagarismdetection/static/media/undraw_studentlogin.57279cc8.svg",
+    "static/media/undraw_studentsignup.c8e70400.svg": "/plagarismdetection/static/media/undraw_studentsignup.c8e70400.svg",
+    "static/media/undraw_welcome.b22cb659.svg": "/plagarismdetection/static/media/undraw_welcome.b22cb659.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1091906.js",
+    "static/js/2.5586dff1.chunk.js",
+    "static/css/main.34df4a7b.chunk.css",
+    "static/js/main.4946d2a8.chunk.js"
+  ]
+}

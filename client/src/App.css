@@ -1,0 +1,95 @@
+body{
+
+  font-family: 'Readex Pro', sans-serif;
+  background:#f2f2f2;
+  overflow-x: hidden;
+}
+
+
+.App__form {
+  max-width: 700px;
+  padding: 37px 37px;
+  margin: 37px auto;
+  box-shadow: 1px 30px 60px 8px rgb(70 72 228 / 7%);
+}
+
+.App__profile {
+  max-width: 1000px;
+  padding: 37px 37px;
+  margin: 37px auto;
+  margin-top: 8%;
+  box-shadow: 1px 30px 60px 8px rgb(70 72 228 / 7%);
+}
+.App__form .css-wb57ya-MuiFormControl-root-MuiTextField-root{
+  margin-bottom: 27px;
+}
+
+    .verification
+	{
+		border:1px solid #f2f2f2;
+		height:280px;
+        border-radius:20px;
+        background:#fff;
+	}
+   .verification_header
+   {
+	   background:rgba(255,102,0,1);
+	   padding:20px;
+       border-radius:20px 20px 0px 0px;
+	   
+   }
+   
+   .check
+   {
+	   margin:0px auto;
+	   width:50px;
+	   height:50px;
+	   border-radius:100%;
+	   background:#fff;
+	   text-align:center;
+   }
+   
+   .check i
+   {
+	   vertical-align:middle;
+	   line-height:50px;
+	   font-size:30px;
+   }
+
+    .content 
+    {
+        text-align:center;
+    }
+
+    .content  h1
+    {
+        font-size:25px;
+        padding-top:25px;
+    }
+
+    .content a
+    {
+        width:200px;
+        height:35px;
+        color:#fff;
+        border-radius:30px;
+        padding:5px 10px;
+        background:rgba(255,102,0,1);
+        transition:all ease-in-out 0.3s;
+    }
+
+    .content a:hover
+    {
+        text-decoration:none;
+        
+    }
+
+    input[type=file]::file-selector-button {
+      border: 2px solid #6c5ce7;
+      padding: .2em .4em;
+      border-radius: .2em;
+      background-color: #a29bfe;
+    }
+    
+
+   
